@@ -9,8 +9,8 @@ const config = {
       initialProjectKey: 'energy-commerce-dev-playground',
     },
     production: {
-      customViewId: 'TODO',
-      url: 'https://my-custom-view.com',
+      customViewId: 'cmcem3xro000vwe01v39zpl7u',
+      url: 'https://mc-view-o2a3cyssf4ouc37qe8hww1q5.australia-southeast1.gcp.4.sandbox.commercetools.app',
     },
   },
   oAuthScopes: {

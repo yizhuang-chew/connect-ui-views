@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'energy-commerce-dev-playground',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'custom-app',
+      url: 'https://mc-app-a9lv4h0i1bc05cyx1xtqz4ot.australia-southeast1.gcp.4.sandbox.commercetools.app',
     },
   },
   oAuthScopes: {
