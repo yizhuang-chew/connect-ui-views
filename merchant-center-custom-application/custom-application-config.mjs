@@ -12,7 +12,7 @@ const config = {
       initialProjectKey: 'energy-commerce-dev-playground',
     },
     production: {
-      applicationId: 'custom-app',
+      applicationId: 'cmcem0o0b000qwe016hrqib87',
       url: 'https://mc-app-a9lv4h0i1bc05cyx1xtqz4ot.australia-southeast1.gcp.4.sandbox.commercetools.app',
     },
   },
